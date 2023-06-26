@@ -1,6 +1,6 @@
-# 💻 Desafio de está recriando um Layout
+# 💻 Desafio recriando um Layout
 
-Neste desafio, eu tive que recriar uma aplicação, a partir de um layout pronto no Figma, é assim conseguir fortalecer alguns conceitos que eu aprendir até o momento e pude colcoar em pratica.
+Neste desafio, eu tive que recriar uma aplicação, a partir de um layout pronto no Figma, é assim conseguir fortalecer os conceitos que eu aprendi e colocar em prática.
 
 - [Acesse o projeto finalizado, online](https://pablonicolino.github.io/Recriando-layout/)
 
